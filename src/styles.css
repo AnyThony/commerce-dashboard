@@ -33,10 +33,11 @@ body {
   min-height: 350px;
   height: 70%;
   border-radius: 10px;
+  max-height: 500px;
   left: 18px;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #425af5;
+  background-color: #5769de;
 }
 
 .headerbar {
@@ -78,7 +79,7 @@ body {
 }
 
 .head-widget .body {
-  margin-top: 18px;
+  margin-top: 12px;
   width: 100%;
   font-size: 28px;
 }
