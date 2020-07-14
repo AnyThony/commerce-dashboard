@@ -1,2 +1,3 @@
-# commerce-dashboard
-Created with CodeSandbox
+# About
+
+A commerce-themed dashboard web app.

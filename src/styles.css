@@ -33,7 +33,7 @@ body {
   min-height: 350px;
   height: 70%;
   border-radius: 10px;
-  left: 15px;
+  left: 18px;
   top: 50%;
   transform: translateY(-50%);
   background-color: #425af5;
@@ -48,7 +48,7 @@ body {
   height: 55px;
   padding-left: 15px;
   top: 30px;
-  left: 120px;
+  left: 105px;
   border-radius: 10px;
   background-color: white;
 }
@@ -68,7 +68,7 @@ body {
   top: 85px;
   height: calc(100% - 160px);
   width: calc(100% - 120px);
-  right: 0;
+  left: 105px;
 }
 
 .v-center {
