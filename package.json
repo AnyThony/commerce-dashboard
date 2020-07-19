@@ -1,6 +1,7 @@
 {
   "name": "commerce-dashboard",
   "version": "1.0.0",
+  "homepage": "https://anythony.github.io/commerce-dashboard/",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
