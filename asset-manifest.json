@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.23d4d462.chunk.css",
-    "main.js": "/static/js/main.3eb73339.chunk.js",
-    "main.js.map": "/static/js/main.3eb73339.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.ad8122c5.chunk.js": "/static/js/2.ad8122c5.chunk.js",
-    "static/js/2.ad8122c5.chunk.js.map": "/static/js/2.ad8122c5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8ea7bc69a09a93eb38bdff4ce69299da.js": "/precache-manifest.8ea7bc69a09a93eb38bdff4ce69299da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.23d4d462.chunk.css.map": "/static/css/main.23d4d462.chunk.css.map"
+    "main.css": "/commerce-dashboard/static/css/main.23d4d462.chunk.css",
+    "main.js": "/commerce-dashboard/static/js/main.3eb73339.chunk.js",
+    "main.js.map": "/commerce-dashboard/static/js/main.3eb73339.chunk.js.map",
+    "runtime~main.js": "/commerce-dashboard/static/js/runtime~main.f9490c33.js",
+    "runtime~main.js.map": "/commerce-dashboard/static/js/runtime~main.f9490c33.js.map",
+    "static/js/2.ad8122c5.chunk.js": "/commerce-dashboard/static/js/2.ad8122c5.chunk.js",
+    "static/js/2.ad8122c5.chunk.js.map": "/commerce-dashboard/static/js/2.ad8122c5.chunk.js.map",
+    "index.html": "/commerce-dashboard/index.html",
+    "precache-manifest.46925e3f0eeabaa7687d10946ea2afdd.js": "/commerce-dashboard/precache-manifest.46925e3f0eeabaa7687d10946ea2afdd.js",
+    "service-worker.js": "/commerce-dashboard/service-worker.js",
+    "static/css/main.23d4d462.chunk.css.map": "/commerce-dashboard/static/css/main.23d4d462.chunk.css.map"
   }
 }
