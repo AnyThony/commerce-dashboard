@@ -120,4 +120,4 @@ class BarC extends PureComponent {
   }
 }
 
-module.exports = { LineC2, BarC };
+export { LineC2, BarC };

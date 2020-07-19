@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles.css";
-import Chart from "./Chart";
+import {BarC, LineC2} from "./Chart";
+
 const HeadWidget = props => {
   return (
     <div className="head-widget">
@@ -15,7 +16,7 @@ const LineChartWidget = props => {
   return (
     <div className="widget-container child-container">
       <h1>Units Sold - March 2020</h1>
-      <Chart.LineC2 />
+      <LineC2 />
     </div>
   );
 };
@@ -24,9 +25,9 @@ const PieChartWidget = props => {
   return (
     <div className="widget-container child-container">
       <h1>Inventory Level</h1>
-      <Chart.BarC />
+      <BarC />
     </div>
   );
 };
 
-module.exports = { HeadWidget, LineChartWidget, PieChartWidget };
+export { HeadWidget, LineChartWidget, PieChartWidget };
